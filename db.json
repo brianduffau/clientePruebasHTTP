@@ -1,0 +1,34 @@
+{
+  "juegos": [
+    {
+      "id": 1,
+      "nombre": "Super Mario Bros",
+      "consola": "Nintendo Entertainment System",
+      "año": 1985
+    },
+    {
+      "id": 2,
+      "nombre": "Super Mario Bros 3",
+      "consola": "NES",
+      "año": 1988
+    },
+    {
+      "id": 3,
+      "nombre": "Super Mario Bros 3",
+      "consola": "NES",
+      "año": 1988      
+    },
+    {
+      "id": 4,
+      "nombre": "Super Mario 64",
+      "consola": "NINTENDO64",
+      "año": 1996
+    },
+    {
+      "id": 5,
+      "nombre": "Super Mario Sunshine",
+      "consola": "NINTENDO GAMECUBE",
+      "año": 2002
+    }
+  ]
+}
